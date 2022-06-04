@@ -18,7 +18,7 @@ def plusMinus(arr):
             neg+=1
         else:
             zero+=1
-    print(pos/len(arr))
+    print(pos/len(ar))
     print(neg/len(arr))
     print(zero/len(arr))
 input("introduce el arreglo, ejemplo >> 1,0,1,-1,-1,0 \n")
